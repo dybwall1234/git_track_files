@@ -68,4 +68,7 @@ CLOSAT：http://blog.sina.com.cn/s/blog_15eb179170102wl4g.html
 20190113 11:45 增加讯飞语记，公众号，以及归档内容。  
 20190113 12:45 增加文章管理，github等部分  
 
+# 持续更新
+https://github.com/dybwall1234/git_track_files/blob/master/IP-generate-system.md
+
 
